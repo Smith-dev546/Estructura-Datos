@@ -1,11 +1,11 @@
-##nombre = "Pepito"
-##print(nombre)
-##print(nombre[3])
-##print(nombre[-1])
+nombre = "Pepito"
+print(nombre)
+print(nombre[3])
+print(nombre[-1])
 
-##Usuario = "pepito";
-##nuevo_usuario = "P" + Usuario[1:]
-##print(nuevo_usuario)
+Usuario = "pepito";
+nuevo_usuario = "P" + Usuario[1:]
+print(nuevo_usuario)
 
 
 producto = "Cuadernos"
